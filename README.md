@@ -1,6 +1,6 @@
 # IMERSÃO - Java Script - Game Dev - Alura  🕹️ :space_invader:
 
-Bibliotecas e tecnologias utilizadas:
+### Bibliotecas e tecnologias utilizadas:
 
 - HTML;
 - CSS;
