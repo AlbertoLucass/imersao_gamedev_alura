@@ -7,7 +7,7 @@
 - JavaScript;
 - P5 JS.
 
-Se esta a fim de se divertir clique [aqui.](https://albertolucasdatrindade.github.io/imersao_gamedev_alura/) 
+Se esta a fim de se divertir clique [aqui.](https://albertolucass.github.io/imersao_gamedev_alura/) 
 
 ![certificado](https://user-images.githubusercontent.com/38790522/86394525-1c499000-bc75-11ea-9a3b-f0687a548f5b.png)
 
